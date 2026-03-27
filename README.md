@@ -67,23 +67,22 @@ I enjoy building projects more than just learning theory 🚀
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ALOK78086&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ALOK78086&show_icons=true&theme=radical)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ALOK78086&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=ALOK78086&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALOK78086&theme=dark&hide_border=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ALOK78086&layout=compact&theme=radical)
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ALOK78086&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ALOK78086&theme=radical)
 
 ---
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=ALOK78086&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ALOK78086&limit=5&theme=radical)
 
 ---
 
