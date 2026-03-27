@@ -1,69 +1,54 @@
-# 💫 About Me
+<h1 align="center">Hi 👋, I'm Alok Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 Problem Solver | 🇮🇳 India</h3>
 
-🚀 Passionate Full Stack Developer from India, focused on building real-world web applications that solve practical problems.
-
----
-
-### 🔭 Currently Working On
-Developing full stack projects using modern technologies (HTML, CSS, JavaScript, Node.js, MySQL & MongoDB)
-
-### 🌱 Currently Learning
-Backend architecture, REST APIs, Authentication (JWT), and Deployment (Netlify, Render, etc.)
-
-### 👯 Open to Collaborate
-Beginner-friendly projects, startup ideas, and open source contributions
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
-### 💡 What I Love
-Turning ideas into real applications, solving problems with code, and continuously improving step by step
+## 🚀 About Me
 
-### 📌 Goals
-To become a professional Full Stack Developer and contribute to impactful real-world projects
-
-### ⚡ Fun Fact
-I enjoy building projects more than just learning theory 🚀
+- 🔭 Developing real-world full stack projects  
+- 🌱 Learning Backend, APIs & Deployment  
+- 👯 Open to collaborate on projects & startups  
+- 💡 Love solving real-life problems using code  
+- 🎯 Goal: Become a professional Full Stack Developer  
 
 ---
 
-## 🌐 Socials
+## 🛠️ Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/software__engineer_1st)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-kumar-singh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ALOK_PROGRAMMER)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokkumar72012@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,c,python,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/software__engineer_1st"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/alok-kumar-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:alokkumar72012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://youtube.com/@ALOK_PROGRAMMER"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALOK78086&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=ALOK78086&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALOK78086&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ALOK78086&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ALOK78086&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALOK78086&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=ALOK78086&icon=0&color=0)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ALOK78086&icon=5&color=6"/>
+</p>
