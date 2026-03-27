@@ -1,21 +1,29 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Problem Solver | 🇮🇳 India</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | 💻 Problem Solver | 🇮🇳 India
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Developing real-world full stack projects  
-- 🌱 Learning Backend, APIs & Deployment  
-- 👯 Open to collaborate on projects & startups  
-- 💡 Love solving real-life problems using code  
-- 🎯 Goal: Become a professional Full Stack Developer  
-
----
+💫 About Me: 🚀
+     Passionate Full Stack Developer from India, focused on building real-world web applications that solve practical problems.
+ 🔭 Currently Working On Developing full stack projects using modern technologies (HTML, CSS, JavaScript, Node.js, MySQL & MongoDB)  
+ 🌱Currently Learning Backend architecture, REST APIs, Authentication (JWT), and Deployment (Netlify, Render, etc.) 
+ 👯 Open to Collaborate Beginner-friendly projects, startup ideas, and open source contributions 
+ 🛠️ Tech Stack 
+    Frontend: HTML, CSS, JavaScript, Bootstrap 
+    Backend: Node.js, Express 
+    Database: MySQL, MongoDB 
+    Languages: C, Java, Python, Operating system 
+    Tools: Git, GitHub, KalliLinux, VS Code
+💡 What I Love Turning ideas into real applications, solving problems with code, and continuously improving step by step 
+📌 Goals To become a professional Full Stack Developer and contribute to impactful real-world projects 
+⚡ Fun Fact I enjoy building projects more than just learning theory 🚀
 
 ## 🛠️ Tech Stack
 
@@ -28,8 +36,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/software__engineer_1st"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://linkedin.com/in/alok-kumar-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/the_silent_reaper_x"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/Alok-kumar-Developer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:alokkumar72012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://youtube.com/@ALOK_PROGRAMMER"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
