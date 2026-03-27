@@ -88,14 +88,16 @@ I enjoy building projects more than just learning theory 🚀
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ALOK78086&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ALOK78086&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
+</p>
 ---
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=ALOK78086&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ALOK78086&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 ---
 
 ![](https://visitcount.itsvg.in/api?id=ALOK78086&icon=0&color=0)
